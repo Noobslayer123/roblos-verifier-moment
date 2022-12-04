@@ -11,10 +11,8 @@ how to setup!!!!1111!!!!
 3. to run the code use the commmands below:
 ```bash
 git clone https://github.com/Noobslayer123/roblos-verifier-moment
-```
-and then pull out all the files and folders out
-```bash
-node roblos-verifier-moment/index.js
+cd roblos-verifier-moment
+node index.js
 ```
 
 **note: make sure you put this program on some online interpreter or any hosting that exposes the server's ip so it can be accessed by roblox servers.**
