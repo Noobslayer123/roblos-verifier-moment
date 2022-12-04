@@ -21,6 +21,6 @@ Paths
 also the path to verify is /
 here are some lists of the available paths:
  + `GET`  "/isverified/:userid":
-    returns `{"status":"1"}` or `{"status":"0"}` depends if the userid given is in the database
+    returns `{"status":"1"}` or `{"status":"0"}` depends if the userid given is in the database (1 = yes, 0 = no)
 
 read more on my recent devforum post
