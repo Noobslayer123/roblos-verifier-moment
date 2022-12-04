@@ -8,7 +8,11 @@ how to setup!!!!1111!!!!
 -
 1. get nodejs (important!1!!!)
 2. run `npm install express axios`
-3. to run the code use `node index.js`
+3. to run the code use the commmands below:
+```bash
+git clone https://github.com/Noobslayer123/roblos-verifier-moment
+node roblos-verifier-moment/index.js
+```
 
 **note: make sure you put this program on some online interpreter or any hosting that exposes the server's ip so it can be accessed by roblox servers.**
 
